@@ -1,8 +1,21 @@
-# devfest_shikoku_2018
+# DevFest Shikoku 2018 Flutter コードラボ
 
-A new DevFest Flutter application.
+[DevFest Shikoku 2018](https://gdgshikoku.connpass.com/event/98292/) のコードラボ資料です。
+この README がセッション資料となります。
 
-## Getting Started
+この資料は、以下のコードラボを下地にしています。
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+* [Write Your First Flutter App, part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..%2Findex#0)
+
+
+* [Write Your First Flutter App, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/index.html?index=..%2F..%2Findex#0)
+
+* 上記コードラボの全ソース
+[main.dart](https://gist.githubusercontent.com/Sfshaza/a95ff8ed0473073197d28437c8d68492/raw/6fb529524047c8c093cb6212dfb66635202ba272/main.dart)
+
+
+
+## 注意事項
+
+gitクローンされた場合は、ご自身のローカル環境に合わせて dart SDK へのパスなどを設定してください。
+
