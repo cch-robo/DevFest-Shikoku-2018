@@ -20,6 +20,9 @@
 gitクローンされた場合は、ご自身のローカル環境に合わせて dart SDK へのパスなどを設定してください。
 
 **【Android Studio での Dart SDK パス設定方法】**
+
 `Preferences > Languages & Frameworks > Dart` で Dart言語の設定画面を開いてください。
+
 **[v]Enable Dart support for the project `プロジェクト名`** にチェックを入れてから、
+
 **Dart SDK path:** に、 **`Flutter SDK インストール先`/flutter/bin/cache/dart-sdk** を設定すればOKです。
